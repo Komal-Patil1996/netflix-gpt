@@ -32,6 +32,24 @@
 - update store with trailer video data
 - embeded the youtube video and make it autoplay and mute
 - tailwind css to main container to look good
+- build secondary component
+- build different movielist
+- build movie card
+- Found out TMDB imahe CDN URL
+- made the browse page amazing using tailwind
+- custom Hooks for movies
+- GPT Search Page
+- GPT Search Bar
+- (BONUS) Multi-language Feature in our App)
+- Get Open AI Api Key
+- Gpt Search API Call
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Resused Movie List component to make movie suggestion container
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive
 
 
 
